@@ -4,4 +4,6 @@
 
 This repository hosts my solutions to the daily code challenges while participating in the 60-day Python Challenge.
 
-All solutions are in Python and stored in challenge-notebook.ipynb.
+| Day | Description | Link |
+| --- | ----------- | ---- |
+| 1   |  #Create a program that swaps the values of two variables
