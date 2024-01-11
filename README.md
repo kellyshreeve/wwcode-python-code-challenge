@@ -6,4 +6,4 @@ This repository hosts my solutions to the daily code challenges while participat
 
 | Day | Description | Link |
 | --- | ----------- | ---- |
-| 1   |  #Create a program that swaps the values of two variables
+| 1   |  Create a program that swaps the values of two variables
