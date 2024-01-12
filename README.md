@@ -6,7 +6,7 @@ This repository hosts daily solutions to the code challenges in the 60-day Pytho
 
 Solutions notebook: [here](https://github.com/kellyshreeve/wwcode-python-code-challengs/blob/main/challenge-solutions.ipynb).
 
-| Day | Description | 
+| Day | Challenge | 
 | --- | ----------- | 
 | 1   |  Create a program that swaps the values of two variables |
 | 2   | Create a program to calculate the area of a circle given its radius |
