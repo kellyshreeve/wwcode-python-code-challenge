@@ -4,7 +4,7 @@
 
 This repository hosts daily solutions to the code challenges in the 60-day Python Challenge.
 
-Solutions in: [challenge-notebook.ipynb](https://github.com/kellyshreeve/wwcode-python-code-challengs/blob/main/day-1.ipynb).
+Solutions notebook: [here](https://github.com/kellyshreeve/wwcode-python-code-challengs/blob/main/day-1.ipynb).
 
 | Day | Description | 
 | --- | ----------- | 
