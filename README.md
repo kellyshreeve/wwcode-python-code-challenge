@@ -4,6 +4,8 @@
 
 This repository hosts my solutions to the daily code challenges in the 60-day Python Challenge.
 
+All challenge solutions in [challenge-notebook.ipynb](https://github.com/kellyshreeve/wwcode-python-code-challengs/blob/main/day-1.ipynb).
+
 | Day | Description | 
 | --- | ----------- | 
 | 1   |  Create a program that swaps the values of two variables 
