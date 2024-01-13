@@ -8,6 +8,6 @@ Solutions notebook: [here](https://github.com/kellyshreeve/wwcode-python-code-ch
 
 | Day | Challenge | 
 | --- | ----------- | 
-| 1   |  Create a program that swaps the values of two variables |
-| 2   | Create a program to calculate the area of a circle given its radius |
-| 3 | Create a program to count the number of vowels in a given string |
+| 1   |  Create a program that swaps the values of two variables. |
+| 2   | Create a program to calculate the area of a circle given its radius. |
+| 3 | Create a program to count the number of vowels in a given string. |
