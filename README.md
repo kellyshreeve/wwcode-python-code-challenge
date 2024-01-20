@@ -10,4 +10,8 @@ Solutions notebook: [here](https://github.com/kellyshreeve/wwcode-python-code-ch
 | --- | ----------- | 
 | 1   |  Create a program that swaps the values of two variables. |
 | 2   | Create a program to calculate the area of a circle given its radius. |
-| 3 | Create a program to count the number of vowels in a given string. |
+| 3   | Create a program to count the number of vowels in a given string. |
+| 4   | Write a program to find the sum of all elements in a list. |
+| 5   | Write a program to find the maximum and minimum values in a list.|
+| 6   | Write a program to count the occurrences of a specific character in a string.|
+| 7   | Write a program to check if a number is positive, negative, or zero. |
